@@ -16,7 +16,7 @@ namespace chain_of_responsibility
             if (grade >= 6)
             {
                 IsOk = true;
-                Console.WriteLine("The Car is OKa");
+                Console.WriteLine("The Car is OK");
             }
             else
             {
