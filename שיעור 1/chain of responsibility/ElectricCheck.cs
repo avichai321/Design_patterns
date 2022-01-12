@@ -8,7 +8,6 @@ namespace chain_of_responsibility
 {
     internal class ElectricCheck : Car
     {
-        
 
         public override void Handle()
         {
